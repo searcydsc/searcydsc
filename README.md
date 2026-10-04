@@ -11,7 +11,7 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=searcydsc&abbreviated=true&color=orange&style=for-thé-badge&abbreviated=true" 
+    src="https://komarev.com/ghpvc/?username=searcydsc&abbreviated=true&color=8A2BE2&style=for-thé-badge&abbreviated=true" 
     alt="profile views"
   />
 </p>
